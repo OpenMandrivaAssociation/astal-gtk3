@@ -40,6 +40,7 @@ BuildRequires:  girepository-devel
 Summary:    %{summary}
 Group:      System/Libraries
 Provides:   %{libname} = %{EVRD}
+Provides:  astal3
 
 %description -n %{libname}
 %summary
