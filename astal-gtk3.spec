@@ -9,7 +9,7 @@
 
 Name:       astal-gtk3
 Version:    1~%{bumpver}.git%{astal_shortcommit}
-Release:    1
+Release:    2
 Source0:    https://github.com/aylur/astal/archive/%{astal_commit}/%{name}-%{astal_shortcommit}.tar.gz
 Summary:    GTK3 component of Astal
 URL:        https://github.com/aylurs/astal
